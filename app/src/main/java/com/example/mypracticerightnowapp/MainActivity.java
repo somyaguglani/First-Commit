@@ -40,6 +40,8 @@ public class MainActivity extends AppCompatActivity {
 
         switch(item.getItemId()){
 
+            //comment
+
             case R.id.action_about:
                 Toast.makeText(this, "About", Toast.LENGTH_SHORT).show();
                 break;
